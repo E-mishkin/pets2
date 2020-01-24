@@ -1,0 +1,12 @@
+{
+  "name": "emishkin/328/pets2",
+  "authors": [
+    {
+      "name": "Evgenii Mishkin",
+      "email": "emishkin@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
